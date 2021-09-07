@@ -1,20 +1,15 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# Image analysis pipeline for in situ data (colorimetric and fluorescence)
 
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+This repository harbors scripts used for "in situ vs FISH vs MS2" manuscript (running title: )
+Processing is 
 
 ## How to Use
 To use this template for your research, fork this repository, change the name
 to something descriptive for your project, and adjust the licensing as you
 see fit.
 
-To use this repository for your own research, simply clone the repo using the following:
-
-```
-git clone https://github.com/gchure/reproducible_research your_repo_title
-```
-
-> :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
+Your raw data: Tif files of fluorescence (or colorimetric) in situ images of embryos. It could be any embryo, as long as your goal is identifying and quantifying the notieceable pattern in your biological sample.
 
 ## Layout
 
